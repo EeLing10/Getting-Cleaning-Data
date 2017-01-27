@@ -7,7 +7,9 @@
 * run_analysis.R - R script
 
 
-## Script run_analysis.RThis repo contains a R script "run_analysis.R" that does the following:
+## Script run_analysis.R
+
+This script does the following:
 
 1.Download the data source from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip] into data folder and unzip.
 
